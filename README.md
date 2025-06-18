@@ -36,14 +36,3 @@ AI-powered PDF summarizer built with the latest in Next.js, React, and GPT-4 —
 | **TypeScript**          | Static typing for improved DX                           |
 | **TailwindCSS v4**      | Utility-first, responsive styling                       |
 | **Vercel**              | Lightning-fast deployment                               |
-
-## 🧰 Getting Started
-
-### 1. Clone the Repo
-
-```bash
-git clone https://github.com/yourusername/intelli-docs.git
-cd intelli-docs
-```
-
-</rewritten_file>
