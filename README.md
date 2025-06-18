@@ -1,5 +1,7 @@
 # 🧠 Intelli-Docs
 
+![App Screenshot](./Screenshot%20from%202025-06-17%2023-03-06.png)
+
 AI-powered PDF summarizer built with the latest in Next.js, React, and GPT-4 — designed for speed, clarity, and ease of use.
 
 ## ✨ Features
